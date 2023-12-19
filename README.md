@@ -6,7 +6,15 @@
 
 ⚡ In my free time, I like to paint, and read scientific articles about cosmology and astronomy
 
-Skills:   REACT / JS / HTML / CSS / es6 / json / Redux / Flutter / React Native
+Skills:  [ * REACT 
+* JS
+* HTML
+* CSS
+* es6 
+*json
+* Redux
+*Flutter
+* React Native]
 
 - 🔭 I’m currently working on I’m working as a Software Engineer and contributing to frontend for building web applications. 
 
