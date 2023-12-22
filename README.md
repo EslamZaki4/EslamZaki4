@@ -7,7 +7,8 @@
 ⚡ In my free time, I like to paint, and read scientific articles about cosmology and astronomy
 
 Skills:  [ 
-* REACT 
+* REACT
+* Angular
 * JS
 * HTML
 * CSS
