@@ -14,6 +14,7 @@ Skills:  [
 * CSS
 * es6 
 * json
+* Git
 * Redux
 * Flutter
 * React Native
